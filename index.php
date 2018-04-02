@@ -163,7 +163,7 @@ if(isset($_GET['page']))
   {
     include_once("resource/grade/Grade.php");
   }
-  if ($page=="addgrade")
+  if ($page=="addGrade")
   {
     include_once("resource/grade/AddGrade.php");
   }
